@@ -1,0 +1,5 @@
+{
+  "name": "AI Webpage Analyzer",
+  "description": "An application that takes a URL, fetches its content, and uses AI to generate a detailed SEO and content analysis, including page intent, sibling link suggestions, key statistics, and an AI-ready summary capsule.",
+  "requestFramePermissions": []
+}
